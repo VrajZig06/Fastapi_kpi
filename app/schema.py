@@ -39,3 +39,4 @@ class Data(BaseModel):
 class Data2(BaseModel):
     sex : str
     adult : bool
+
